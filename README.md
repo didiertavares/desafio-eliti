@@ -1,1 +1,1 @@
-#this file contains a summary of the intentions, project explanation and goals in the long-term, that lie behind the decision of shifting careers and taking tech classes.
+#this file contains a summary of the intentions and goals in the long-term, that ground the decision of shifting careers and taking tech classes.
